@@ -1,4 +1,4 @@
-package 프로그래머스.레벨2.p161990;
+package 프로그래머스.레벨1.p161990;
 
 class Solution {
     int gRow, gCol;
